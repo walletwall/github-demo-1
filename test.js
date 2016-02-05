@@ -2,8 +2,8 @@ function a(){
     console.log("a");
 }
 
-function b(arg){
-    console.log("b: " + arg);
+function b(){
+    console.log("b");
 }
 
 // Calls
